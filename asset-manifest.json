@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Post_Project_ReactJS/static/css/main.3dbd1049.chunk.css",
-    "main.js": "/Post_Project_ReactJS/static/js/main.a01ccfd6.chunk.js",
-    "main.js.map": "/Post_Project_ReactJS/static/js/main.a01ccfd6.chunk.js.map",
+    "main.js": "/Post_Project_ReactJS/static/js/main.80806b53.chunk.js",
+    "main.js.map": "/Post_Project_ReactJS/static/js/main.80806b53.chunk.js.map",
     "runtime-main.js": "/Post_Project_ReactJS/static/js/runtime-main.c2c0d02d.js",
     "runtime-main.js.map": "/Post_Project_ReactJS/static/js/runtime-main.c2c0d02d.js.map",
     "static/css/2.f2512455.chunk.css": "/Post_Project_ReactJS/static/css/2.f2512455.chunk.css",
-    "static/js/2.e529be28.chunk.js": "/Post_Project_ReactJS/static/js/2.e529be28.chunk.js",
-    "static/js/2.e529be28.chunk.js.map": "/Post_Project_ReactJS/static/js/2.e529be28.chunk.js.map",
+    "static/js/2.cf87c07a.chunk.js": "/Post_Project_ReactJS/static/js/2.cf87c07a.chunk.js",
+    "static/js/2.cf87c07a.chunk.js.map": "/Post_Project_ReactJS/static/js/2.cf87c07a.chunk.js.map",
     "index.html": "/Post_Project_ReactJS/index.html",
     "static/css/2.f2512455.chunk.css.map": "/Post_Project_ReactJS/static/css/2.f2512455.chunk.css.map",
     "static/css/main.3dbd1049.chunk.css.map": "/Post_Project_ReactJS/static/css/main.3dbd1049.chunk.css.map",
-    "static/js/2.e529be28.chunk.js.LICENSE.txt": "/Post_Project_ReactJS/static/js/2.e529be28.chunk.js.LICENSE.txt"
+    "static/js/2.cf87c07a.chunk.js.LICENSE.txt": "/Post_Project_ReactJS/static/js/2.cf87c07a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2c0d02d.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.e529be28.chunk.js",
+    "static/js/2.cf87c07a.chunk.js",
     "static/css/main.3dbd1049.chunk.css",
-    "static/js/main.a01ccfd6.chunk.js"
+    "static/js/main.80806b53.chunk.js"
   ]
 }
